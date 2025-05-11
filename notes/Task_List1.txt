@@ -1,0 +1,6 @@
+1. Confirm the open ports on this particular device using namp.
+2. Examine for services that allow users to remotely view Comfort Panel screens. (Hint: No client, such as Siemens Sm@rt Client or VNC needed) 
+
+1. Confirm the open ports on this particular device using namp.
+2. Probe open ports that run industrial protocols with a suitable nmap script to extract information.
+3. Assess other open ports.

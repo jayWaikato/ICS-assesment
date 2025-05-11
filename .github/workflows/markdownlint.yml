@@ -1,0 +1,12 @@
+name: Markdown Lint
+
+on: [push, pull_request]
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: markdownlint/markdownlint-action@v1
+        with:
+          config: .markdownlint.json

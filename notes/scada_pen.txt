@@ -1,0 +1,14 @@
+10.2.0.50       00:01:e3:d1:2d:41      1      60  Siemens AG                                                      
+ 10.2.0.51       00:0e:8c:da:82:e2      1      60  Siemens AG                                                      
+ 10.2.0.52       00:0e:8c:72:d0:97      1      60  Siemens AG                                                      
+ 10.2.0.54       8c:1f:64:08:ff:17      1      60  IEEE Registration Authority                                     
+ 10.2.0.55       00:20:b5:00:4f:c1      1      60  YASKAWA ELECTRIC CORPORATION                                    
+ 10.2.0.56       00:0f:69:57:b3:02      1      60  SEW Eurodrive GmbH & Co. KG                                     
+ 10.2.0.58       00:01:e3:a8:35:4c      1      60  Siemens AG                                                      
+ 10.2.0.61       00:20:b5:4c:59:de      1      60  YASKAWA ELECTRIC CORPORATION                                    
+ 10.2.0.62       00:0f:69:df:1d:8b      1      60  SEW Eurodrive GmbH & Co. KG                                     
+ 10.2.0.65       00:01:e3:eb:53:93      1      60  Siemens AG                                                      
+ 10.2.0.67       00:20:b5:34:37:ea      1      60  YASKAWA ELECTRIC CORPORATION                                    
+ 10.2.0.68       00:0f:69:9c:77:be      1      60  SEW Eurodrive GmbH & Co. KG                                     
+ 10.2.0.70       00:01:e3:d6:30:44      1      60  Siemens AG                                                      
+
