@@ -20,7 +20,7 @@
 
 ## 🖼 Screenshots
 
-![Network Topology Diagram](diagrams/COJ_OT-Network_segmented.drawio)
+![Network Topology Diagram](diagrams/COJ_OT-Network_segmented.pdf)
 
 ---
 
