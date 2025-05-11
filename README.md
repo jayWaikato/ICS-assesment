@@ -22,7 +22,7 @@
 
 A high-resolution network topology is available in PDF format:
 
-![image](https://github.com/user-attachments/assets/77d81885-18ef-49f3-abb6-327d1d7f31e9)
+![image](https://github.com/user-attachments/assets/77533587-4cc7-462a-9350-802dedcfd32b)
 
 
 [📄 Download the network topology diagram (PDF)](diagrams/COJ_OT-Network_segmented.pdf)
