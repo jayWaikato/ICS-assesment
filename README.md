@@ -20,11 +20,11 @@
 
 ## 🌐 Network Topology Diagram
 
-[Network Topology](diagrams/ICS_Assessment_Report.png)
+[Network Topology](diagrams/COJ_OT-Network_segmented.png)
 
 A high-resolution network topology is available in PDF format:
 
-[📄 Download the network topology diagram (PDF)](diagrams/ICS_Assessment_Report.pdf)
+[📄 Download the network topology diagram (PDF)](diagrams/COJ_OT-Network_segmented.pdf)
 ---
 
 ## 📖 Table of Contents
