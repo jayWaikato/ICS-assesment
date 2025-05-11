@@ -34,11 +34,8 @@ A high-resolution network topology is available in PDF format:
 - [Getting Started](#getting-started)
 - [Assessment Methodology](#assessment-methodology)
 - [Key Findings](#key-findings)
-- [Remediation Playbook](#remediation-playbook)
-- [Repository Structure](#repository-structure)
+- [Remediation](#remediation)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -67,6 +64,22 @@ Industrial control systems often run on legacy protocols and flat networks, enab
    nmap -sn -iL reports/Asset_Inventory_Network_Segmentation.xlsx -oG nmap_results.gnmap
    nmap --script nmap-scripts/nmap_NSE_Links.txt -p 102,80 <target_subnet>
    ```
+5. ## 🛠 Tools & Utilities
+
+- **APTICS** ([rick-cen/aptics](https://github.com/rick-cen/aptics))  
+  A curated toolkit for assessing and protecting ICS networks, providing ready-made scripts, configs and demos of common Siemens PLC targets:
+  - `install.sh`   
+    Example OT network configuration—VLANs, subnets and device mappings.  
+  - `run.sh`  
+    Wrapper to launch standard ICS discovery & enumeration workflows.  
+  - Demo modules:  
+    - **s71500/** – S7-1500 PLC probing examples  
+    - **s7300/** – S7-300 PLC examples  
+    - **snap7/**  – Snap7-based data reads  
+    - **wincc/**  – WinCC tag export samples  
+
+  This gives you an out-of-the-box ICS assessment environment—just clone the submodule and you’re ready to scan your Siemens gear.
+
 
 ---
 
@@ -90,9 +103,7 @@ Industrial control systems often run on legacy protocols and flat networks, enab
 
 ---
 
-## 📚 Remediation Playbook
-
-Detailed remediation steps are available in `playbooks/remediation_playbook.md`, covering:
+## 📚 Remediation
 
 - Network segmentation & firewall rules  
 - Secure VPN setup & account management  
@@ -101,38 +112,8 @@ Detailed remediation steps are available in `playbooks/remediation_playbook.md`,
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── .github/              # CI workflows & configs
-├── docs/                 # Full PDF report
-├── diagrams/             # Draw.io network diagrams
-├── nmap-scripts/         # Custom NSE scripts
-├── playbooks/            # Remediation runbooks
-├── reports/              # Asset inventory & segmentation
-├── slides/               # Presentation deck
-├── notes/                # Supplementary notes & raw command sheets
-├── .gitignore            # Files to ignore in Git
-├── LICENSE               # Project license
-└── README.md             # Project overview
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License – see [LICENSE](LICENSE) for details.
-
----
-
-## 📬 Contact
-
-*Prince Savaliya*  
-- LinkedIn: https://www.linkedin.com/in/prince-savaliya  
-- Email: prince@example.com  
