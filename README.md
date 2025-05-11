@@ -20,8 +20,6 @@
 
 ## 🌐 Network Topology Diagram
 
-! [Network Topology](diagrams/COJ_OT-Network_segmented.png)
-
 A high-resolution network topology is available in PDF format:
 
 [📄 Download the network topology diagram (PDF)](diagrams/COJ_OT-Network_segmented.pdf)
