@@ -1,10 +1,11 @@
 # ICS Security Assessment & Protection Roadmap
 
 [![GitHub Pages](https://img.shields.io/badge/Pages-Enabled-brightgreen)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Markdown Lint](https://github.com/prince-savaliya/ics-security-assessment/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/prince-savaliya/ics-security-assessment/actions/workflows/markdownlint.yml)
+
 
 > A defence‑in‑depth security assessment of an Industrial Control System (ICS) network.
+![image](https://github.com/user-attachments/assets/a47c5f7b-996f-4168-9b84-4a0f42ee72f4)
+
 
 ---
 
@@ -12,9 +13,9 @@
 
 - **Comprehensive ICS Risk Mapping:** Aligns findings against MITRE ATT&CK ICS® framework.
 - **Interactive Network Diagrams:** Editable Draw.io files and exports.
-- **Step-by-Step Remediation Playbook:** Detailed fixes, configurations, and runbooks.
+- **Step-by-Step Remediation Playbook:** Detailed fixes, configurations.
 - **Ready-to-Use Scripts:** Custom Nmap NSE scripts for Siemens S7 device enumeration.
-- **Professional Documentation:** Full PDF report, slide deck, and asset inventory.
+- **Documentation:** Full PDF report, and asset inventory.
 
 ---
 
