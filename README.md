@@ -31,12 +31,12 @@ A high-resolution network topology is available in PDF format:
 
 ## 📖 Table of Contents
 
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Assessment Methodology](#assessment-methodology)
-- [Key Findings](#key-findings)
-- [Remediation](#remediation)
-- [Contributing](#contributing)
+- [Overview]
+- [Getting Started]
+- [Assessment Methodology]
+- [Key Findings]
+- [Remediation]
+- [Contributing]
 
 ---
 
@@ -76,8 +76,7 @@ Industrial control systems often run on legacy protocols and flat networks, enab
   - Demo modules:  
     - **s71500/** – S7-1500 PLC probing examples  
     - **s7300/** – S7-300 PLC examples  
-    - **snap7/**  – Snap7-based data reads  
-    - **wincc/**  – WinCC tag export samples  
+    - **snap7/**  – Snap7-based data reads   
 
   This gives you an out-of-the-box ICS assessment environment—just clone the submodule and you’re ready to scan your Siemens gear.
 
